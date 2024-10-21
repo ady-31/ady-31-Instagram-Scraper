@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\bin\Debug\net481\Instagram Private Scraper.exe.config
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\bin\Debug\net481\Instagram Private Scraper.exe
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\bin\Debug\net481\Instagram Private Scraper.pdb
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\bin\Debug\net481\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\InstagramPrivateScraper.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\InstagramPrivateScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\InstagramPrivateScraper.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\InstagramPrivateScraper.AssemblyInfo.cs
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\InstagramPrivateScraper.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\Instagra.1BAC4086.Up2Date
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\Instagram Private Scraper.exe
+C:\Users\HP\Downloads\Instagram-Private-Scraper-master\Instagram-Private-Scraper-master\obj\Debug\net481\Instagram Private Scraper.pdb

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj",
+        "projectName": "Instagram Private Scraper",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
