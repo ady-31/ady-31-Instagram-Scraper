@@ -75,11 +75,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj",
+      "projectUniqueName": "G:\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj",
       "projectName": "Instagram Private Scraper",
-      "projectPath": "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj",
+      "projectPath": "G:\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\InstagramPrivateScraper.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Downloads\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\obj\\",
+      "outputPath": "G:\\Instagram-Private-Scraper-master\\Instagram-Private-Scraper-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
